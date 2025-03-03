@@ -1,0 +1,14 @@
+build/
+install/
+log/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.vscode/
+.idea/
+cmake-build-debug/
+.colcon/
+.*
+!.gitignore
+!.gitkeep
